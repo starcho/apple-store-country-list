@@ -1,1 +1,2 @@
 # apple-store-country-list
+A list of all the App Store and Mac App Store territories that are available for apps to be sold in and their corresponding country codes according to [App Store](https://developer.apple.com/library/ios/documentation/LanguagesUtilities/Conceptual/iTunesConnect_Guide/Appendices/AppStoreTerritories.html).

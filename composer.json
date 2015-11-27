@@ -1,0 +1,25 @@
+{
+    "name": "iqu/apple-store-country-list",
+    "description": "A list of all the App Store and Mac App Store territories that are available for apps to be sold in and their corresponding country codes",
+    "require": {
+        "phpdocumentor/phpdocumentor": "*"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Evangelos Karvounis",
+            "email": "karvounis.b@gmail.com"
+        }
+    ],
+    "keywords": [
+        "appstore",
+        "scraper",
+        "countries",
+        "itunes"
+    ],
+    "autoload": {
+        "psr-4": {
+            "AppStoreCountries\\": "lib/"
+        }
+    }
+}
