@@ -4,7 +4,7 @@
  * Countries.php
  */
 
-namespace AppStoreCountries;
+namespace Iqu\AppStore;
 
 /**
  * Class that contains the official collection of country codes and names for
